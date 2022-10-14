@@ -1,1 +1,1 @@
-hotfix app crash fix
+added readme and updated app

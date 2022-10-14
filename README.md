@@ -1,1 +1,1 @@
-added readme and updated app
+added documentation

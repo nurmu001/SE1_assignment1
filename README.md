@@ -1,1 +1,1 @@
-hotfix app crash fix
+finished writing my startup code
